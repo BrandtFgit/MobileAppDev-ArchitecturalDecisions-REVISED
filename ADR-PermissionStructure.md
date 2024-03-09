@@ -6,15 +6,15 @@
    - Status: Decision made, proceeding with RBAC for permissions management.
 
 # DETAILS
-   -Assumptions:
+   - Assumptions:
      	- Assuming the need for granular control over user access to app features and data.
-   -Constraints:
+   - Constraints:
      	- Consideration of scalability and ease of maintenance as the user base grows.
-   -Position:
+   - Position:
      	- Advocating for RBAC due to its well-defined roles, permissions, and ease of implementation.
-   -Arguments:
+   - Arguments:
      	- RBAC simplifies access control by assigning roles to users and granting permissions based on those roles, reducing complexity and improving security.
-   -Implications:
+   - Implications:
      	- Streamlined management of user access rights through role assignments and permissions.
      	- Potential need for periodic review and adjustment of roles and permissions to align with changing business requirements.
 
